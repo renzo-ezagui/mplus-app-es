@@ -1,0 +1,45 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Files that should be ignored by version control
+/android/
+/build/
+/ios/
+/linux/
+/macos/
+/web/
+/windows/
+
+# Editor files
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+
+# Flutter-specific files
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+/test/*
+!/test/**/*_test.dart
+
+# Generated files
+/lib/**/*.g.dart
+/lib/**/*.freezed.dart
+/lib/**/*.gr.dart
+
+# Env files
+.env
+*.env
+
+# Other
+/assets/*
+!/assets/**/*.arb
